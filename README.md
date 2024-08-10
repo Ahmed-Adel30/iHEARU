@@ -59,8 +59,8 @@ We welcome and appreciate contributions to iHearU! Please follow our [Contributi
 
 ## Acknowledgments
 We express sincere gratitude to the following individuals who played a pivotal role in shaping iHearU:
-- Mohamed Ezz El-Dein
 - Ahmed Adel
+- Mohamed Ezz El-Dein
 - Mostafa Elnagar
 - Moaz Atef
 
