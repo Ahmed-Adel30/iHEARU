@@ -16,12 +16,12 @@ End-to-End Communication Application for Hearing Impaired &amp; Normal Individua
 - [License](#license)
 
 ## Introduction
-iHearU is an innovative application that aims to break down communication barriers between hearing impaired individuals and those with normal hearing abilities. Inspired by the need for inclusive interactions, iHearU presents a comprehensive solution that integrates modern technology with a deep commitment to creating a more connected and empathetic world.
+iHearU is an innovative application that aims to break down communication barriers between hearing-impaired individuals and those with normal hearing abilities. Inspired by the need for inclusive interactions, iHearU presents a comprehensive solution integrating modern technology with a deep commitment to creating a more connected and empathetic world.
 
 ## Features
-- **Sign to Text:** The "Sign to Text" component of iHearU harnesses the power of Unity, a dynamic and versatile development platform. Users can input text, and the application's animated avatar intuitively performs corresponding sign language gestures. This feature not only enables the hearing impaired to express themselves more effectively but also fosters understanding and inclusion among a broader audience.
+- **Sign to Text:** The "Sign to Text" component of iHearU harnesses the power of Unity, a dynamic and versatile development platform. Users can input text, and the application's animated avatar intuitively performs corresponding sign language gestures. This feature enables the hearing impaired to express themselves more effectively and fosters understanding and inclusion among a broader audience.
 
-- **Text to Sign Language:** The "Text to Sign Language" aspect of iHearU employs a state-of-the-art deep learning model known as the "Gesture Recognizer." This model has been meticulously trained on an expansive dataset, enabling it to accurately translate American Sign Language (ASL) gestures captured by a camera into textual information. This transformative technology empowers hearing impaired individuals to communicate fluently and naturally in sign language, while simultaneously allowing those who do not understand sign language to comprehend their messages.
+- **Text to Sign Language:** The "Text to Sign Language" aspect of iHearU employs a state-of-the-art deep learning model known as the "Gesture Recognizer." This model has been meticulously trained on an expansive dataset, enabling it to accurately translate American Sign Language (ASL) gestures captured by a camera into textual information. This transformative technology empowers hearing-impaired individuals to communicate fluently and naturally in sign language, while simultaneously allowing those who do not understand sign language to comprehend their messages.
 
 ## Technologies Used
 iHearU is a fusion of cutting-edge technologies and creative methodologies:
@@ -53,7 +53,7 @@ iHearU is a fusion of cutting-edge technologies and creative methodologies:
 ![photo_2023-07-14_20-11-44](https://github.com/Mozasbugs/iHearU/assets/103077062/8268a84b-690a-465b-9eef-f75eecb92157)
 
 ## Contributing
-We welcome and appreciate contributions to iHearU! To learn more, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome and appreciate contributions to iHearU! Please follow our [Contribution Guidelines](CONTRIBUTING.md) to learn more.
 
 ## Acknowledgments
 We express sincere gratitude to the following individuals who played a pivotal role in shaping iHearU:
