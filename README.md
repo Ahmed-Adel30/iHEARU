@@ -44,13 +44,15 @@ iHearU is a fusion of cutting-edge technologies and creative methodologies:
 
 2. Use the "Text to Sign Language" feature to see sign language gestures corresponding to text input.
 
-
-![3](https://github.com/Mozasbugs/iHearU/assets/103077062/ffec36b4-d6f4-4761-8d1e-d7e35acbcb2d)
-
+<p align="center">
+  <img src="Assets/TS.gif" width="300" />
+</p>
 
 3. Use the "Sign Language to Text" feature to translate ASL gestures into text.
 
-![photo_2023-07-14_20-11-44](https://github.com/Mozasbugs/iHearU/assets/103077062/8268a84b-690a-465b-9eef-f75eecb92157)
+<p align="center">
+    <img src="Assets/ST.gif" width="300" />
+</p>
 
 ## Contributing
 We welcome and appreciate contributions to iHearU! Please follow our [Contribution Guidelines](CONTRIBUTING.md) to learn more.
